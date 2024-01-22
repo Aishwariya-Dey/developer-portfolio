@@ -147,10 +147,13 @@ main section{
     margin-bottom: 20px;
     margin-top: 0px;
 }
-.resume-item-institute,
-.resume-item-description{
+.resume-item-institute, .resume-item-description{
     color: #757575;
 }
 .resume-container hr{
     margin: 30px;
+}
+.Download-CV{
+    text-align: center;
+    margin-top: 50px;
 }
